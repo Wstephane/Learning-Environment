@@ -1,0 +1,15 @@
+body {
+  background-image: url(https://hellobiz.fr/wp-content/uploads/2018/04/douche-connect%C3%A9e-990x554.jpg);
+  font-family: Arial Black : sans-serif;
+  font-size: 25px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.Image {
+  display: flex;
+  justify-content: center;
+}
